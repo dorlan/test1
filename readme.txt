@@ -8,3 +8,4 @@ modify readme.txt
 modify readme.txt, pause...
 push origin dev.
 modify from github. hhh ,local edit
+modify from github. hhh，remote edit.
