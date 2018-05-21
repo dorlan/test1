@@ -4,3 +4,4 @@ Git has a mutable index called stage.
 Git tracks changes.
 Creating a new brach is quick and simple.
 modify readme.txt, pause...
+push origin dev.
